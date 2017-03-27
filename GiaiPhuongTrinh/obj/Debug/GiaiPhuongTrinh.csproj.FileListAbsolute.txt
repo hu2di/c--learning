@@ -1,0 +1,5 @@
+F:\Documents\visual studio 2013\Projects\1.CoBan\GiaiPhuongTrinh\bin\Debug\GiaiPhuongTrinh.exe.config
+F:\Documents\visual studio 2013\Projects\1.CoBan\GiaiPhuongTrinh\bin\Debug\GiaiPhuongTrinh.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\GiaiPhuongTrinh\bin\Debug\GiaiPhuongTrinh.pdb
+F:\Documents\visual studio 2013\Projects\1.CoBan\GiaiPhuongTrinh\obj\Debug\GiaiPhuongTrinh.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\GiaiPhuongTrinh\obj\Debug\GiaiPhuongTrinh.pdb

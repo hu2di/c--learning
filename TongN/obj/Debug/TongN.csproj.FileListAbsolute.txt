@@ -1,0 +1,5 @@
+F:\Documents\visual studio 2013\Projects\1.CoBan\TongN\bin\Debug\TongN.exe.config
+F:\Documents\visual studio 2013\Projects\1.CoBan\TongN\bin\Debug\TongN.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\TongN\bin\Debug\TongN.pdb
+F:\Documents\visual studio 2013\Projects\1.CoBan\TongN\obj\Debug\TongN.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\TongN\obj\Debug\TongN.pdb

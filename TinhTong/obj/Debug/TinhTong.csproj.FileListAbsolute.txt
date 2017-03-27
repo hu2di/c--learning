@@ -1,0 +1,5 @@
+F:\Documents\visual studio 2013\Projects\1.CoBan\TinhTong\bin\Debug\TinhTong.exe.config
+F:\Documents\visual studio 2013\Projects\1.CoBan\TinhTong\bin\Debug\TinhTong.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\TinhTong\bin\Debug\TinhTong.pdb
+F:\Documents\visual studio 2013\Projects\1.CoBan\TinhTong\obj\Debug\TinhTong.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\TinhTong\obj\Debug\TinhTong.pdb

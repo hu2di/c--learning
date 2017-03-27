@@ -1,0 +1,6 @@
+F:\Documents\visual studio 2013\Projects\1.CoBan\XinChao\bin\Debug\XinChao.exe.config
+F:\Documents\visual studio 2013\Projects\1.CoBan\XinChao\bin\Debug\XinChao.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\XinChao\bin\Debug\XinChao.pdb
+F:\Documents\visual studio 2013\Projects\1.CoBan\XinChao\obj\Debug\XinChao.csprojResolveAssemblyReference.cache
+F:\Documents\visual studio 2013\Projects\1.CoBan\XinChao\obj\Debug\XinChao.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\XinChao\obj\Debug\XinChao.pdb

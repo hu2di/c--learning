@@ -1,0 +1,6 @@
+F:\Documents\visual studio 2013\Projects\1.CoBan\StringArray\bin\Debug\StringArray.exe.config
+F:\Documents\visual studio 2013\Projects\1.CoBan\StringArray\bin\Debug\StringArray.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\StringArray\bin\Debug\StringArray.pdb
+F:\Documents\visual studio 2013\Projects\1.CoBan\StringArray\obj\Debug\StringArray.csprojResolveAssemblyReference.cache
+F:\Documents\visual studio 2013\Projects\1.CoBan\StringArray\obj\Debug\StringArray.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\StringArray\obj\Debug\StringArray.pdb

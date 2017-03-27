@@ -1,0 +1,6 @@
+F:\Documents\visual studio 2013\Projects\1.CoBan\DoiCanChi\bin\Debug\DoiCanChi.exe.config
+F:\Documents\visual studio 2013\Projects\1.CoBan\DoiCanChi\bin\Debug\DoiCanChi.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\DoiCanChi\bin\Debug\DoiCanChi.pdb
+F:\Documents\visual studio 2013\Projects\1.CoBan\DoiCanChi\obj\Debug\DoiCanChi.csprojResolveAssemblyReference.cache
+F:\Documents\visual studio 2013\Projects\1.CoBan\DoiCanChi\obj\Debug\DoiCanChi.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\DoiCanChi\obj\Debug\DoiCanChi.pdb

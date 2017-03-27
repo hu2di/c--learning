@@ -1,0 +1,6 @@
+F:\Documents\visual studio 2013\Projects\1.CoBan\GiaiThua\bin\Debug\GiaiThua.exe.config
+F:\Documents\visual studio 2013\Projects\1.CoBan\GiaiThua\bin\Debug\GiaiThua.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\GiaiThua\bin\Debug\GiaiThua.pdb
+F:\Documents\visual studio 2013\Projects\1.CoBan\GiaiThua\obj\Debug\GiaiThua.csprojResolveAssemblyReference.cache
+F:\Documents\visual studio 2013\Projects\1.CoBan\GiaiThua\obj\Debug\GiaiThua.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\GiaiThua\obj\Debug\GiaiThua.pdb

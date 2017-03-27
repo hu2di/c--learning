@@ -1,0 +1,6 @@
+F:\Documents\visual studio 2013\Projects\1.CoBan\Timer\bin\Debug\Timer.exe.config
+F:\Documents\visual studio 2013\Projects\1.CoBan\Timer\bin\Debug\Timer.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\Timer\bin\Debug\Timer.pdb
+F:\Documents\visual studio 2013\Projects\1.CoBan\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+F:\Documents\visual studio 2013\Projects\1.CoBan\Timer\obj\Debug\Timer.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\Timer\obj\Debug\Timer.pdb

@@ -1,0 +1,6 @@
+F:\Documents\visual studio 2013\Projects\1.CoBan\KeThua\bin\Debug\KeThua.exe.config
+F:\Documents\visual studio 2013\Projects\1.CoBan\KeThua\bin\Debug\KeThua.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\KeThua\bin\Debug\KeThua.pdb
+F:\Documents\visual studio 2013\Projects\1.CoBan\KeThua\obj\Debug\KeThua.csprojResolveAssemblyReference.cache
+F:\Documents\visual studio 2013\Projects\1.CoBan\KeThua\obj\Debug\KeThua.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\KeThua\obj\Debug\KeThua.pdb

@@ -1,0 +1,6 @@
+F:\Documents\visual studio 2013\Projects\1.CoBan\Constructor\bin\Debug\Constructor.exe.config
+F:\Documents\visual studio 2013\Projects\1.CoBan\Constructor\bin\Debug\Constructor.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\Constructor\bin\Debug\Constructor.pdb
+F:\Documents\visual studio 2013\Projects\1.CoBan\Constructor\obj\Debug\Constructor.csprojResolveAssemblyReference.cache
+F:\Documents\visual studio 2013\Projects\1.CoBan\Constructor\obj\Debug\Constructor.exe
+F:\Documents\visual studio 2013\Projects\1.CoBan\Constructor\obj\Debug\Constructor.pdb
